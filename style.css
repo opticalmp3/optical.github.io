@@ -1,0 +1,28 @@
+.highlightText {
+	background-color:lime;
+	color:white;
+	width:100%;
+	text-align:center;
+	padding:15px;
+}
+.header {
+	text-align:center;
+	font-family:Russo One;
+	font-style:italic;
+	text-transform:uppercase;
+	vertical-align:middle;
+}
+
+.floatLeft {float:left;}
+
+.floatRight {float:right;}
+
+.videoFrame{
+  width:100%:
+}
+
+.videoFrame iframe{
+   margin: 0 auto;
+   display: block;
+   width: 560px;
+}
